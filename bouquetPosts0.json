@@ -2,33 +2,33 @@
   "main": {
     "Title": "꽃다발",
     "Content": "사랑하는 사람에게 꽃다발을 선물해 보시는 건 어떨까요?",
-    "Images": "https://mayflower-sungheeek.c9users.io/images/bouquet.jpg",
+    "Images": "13.230.74.250:5000/images/bouquet.jpg",
     "Link" : "http://localhost:3000/flowers/bouquet/0"
   },
   "side":
    {
       "Title": "사이드 꽃다발1",
       "Content": "사이드 꽃다발1",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/bouquet2.jpg",
+      "Images": "13.230.74.250:5000/images/bouquet2.jpg",
       "Link" : "http://localhost:3000/flowers/bouquet/1"
     },
   "bottom": [
     {
       "Title": "꽃다발",
       "Content": "꽃다발입니다",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/bouquet.jpg",
+      "Images": "13.230.74.250:5000/images/bouquet.jpg",
       "Link" : "http://localhost:3000/flowers/bouquet/2"
     },
     {
       "Title": "꽃다발",
       "Content": "꽃다발일껄?",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/bouquet2.jpg",
+      "Images": "13.230.74.250:5000/images/bouquet2.jpg",
       "Link" : "http://localhost:3000/flowers/bouquet/3"
     },
     {
       "Title": "꽃다발",
       "Content": "꽃다발맞을껄?",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/bouquet3.jpg",
+      "Images": "13.230.74.250:5000/images/bouquet3.jpg",
       "Link" : "http://localhost:3000/flowers/bouquet/4"
     }
   ]

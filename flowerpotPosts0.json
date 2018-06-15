@@ -2,39 +2,39 @@
   "main": {
     "Title": "화분0",
     "Content": "메인 화분0",
-    "Images": "https://mayflower-sungheeek.c9users.io/images/flowerpot0.jpg",
+    "Images": "13.230.74.250:5000/images/flowerpot0.jpg",
     "Link" : "http://localhost:3000/flowers/flowerpot/0"
   },
   "side":
    {
       "Title": "사이드 화분1",
       "Content": "사이드 화분1",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/flowerpot1.jpg",
+      "Images": "13.230.74.250:5000/images/flowerpot1.jpg",
       "Link" : "http://localhost:3000/flowers/flowerpot/1"
     },
   "bottom": [
     {
       "Title": "화분0",
       "Content": "화분0",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/flowerpot0.jpg",
+      "Images": "13.230.74.250:5000/images/flowerpot0.jpg",
       "Link" : "http://localhost:3000/flowers/flowerpot/0"
     },
     {
       "Title": "화분1",
       "Content": "화분1",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/flowerpot1.jpg",
+      "Images": "13.230.74.250:5000/images/flowerpot1.jpg",
       "Link" : "http://localhost:3000/flowers/flowerpot/1"
     },
     {
       "Title": "화분2",
       "Content": "화분2",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/flowerpot2.jpg",
+      "Images": "13.230.74.250:5000/images/flowerpot2.jpg",
       "Link" : "http://localhost:3000/flowers/flowerpot/2"
     },
     {
       "Title": "화분3",
       "Content": "화분3",
-      "Images": "https://mayflower-sungheeek.c9users.io/images/flowerpot3.jpg",
+      "Images": "13.230.74.250:5000/images/flowerpot3.jpg",
       "Link" : "http://localhost:3000/flowers/flowerpot/3"
     }
   ]
