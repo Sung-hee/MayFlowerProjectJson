@@ -2,19 +2,19 @@
   {
     "Title": "기타0",
     "Content": "기타0",
-    "Images": "13.230.74.250:5000/images/floweretc0.jpg",
+    "Images": "http://13.230.74.250:5000/images/floweretc0.jpg",
     "Link" : "http://localhost:3000/flowers/floweretc"
   },
   {
     "Title": "기타1",
     "Content": "기타1",
-    "Images": "13.230.74.250:5000/images/floweretc1.jpg",
+    "Images": "http://13.230.74.250:5000/images/floweretc1.jpg",
     "Link" : "http://localhost:3000/flowers/floweretc"
   },
   {
     "Title": "기타2",
     "Content": "기타2",
-    "Images": "13.230.74.250:5000/images/floweretc2.jpg",
+    "Images": "http://13.230.74.250:5000/images/floweretc2.jpg",
     "Link" : "http://localhost:3000/flowers/floweretc"
   }
 ]

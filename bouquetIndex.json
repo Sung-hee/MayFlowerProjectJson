@@ -2,19 +2,19 @@
   {
     "Title": "꽃다발",
     "Content": "꽃다발입니다",
-    "Images": "13.230.74.250:5000/images/bouquet.jpg",
+    "Images": "http://13.230.74.250:5000/images/bouquet.jpg",
     "Link" : "http://localhost:3000/flowers/bouquet"
   },
   {
     "Title": "꽃다발",
     "Content": "꽃다발일껄?",
-    "Images": "13.230.74.250:5000/images/bouquet2.jpg",
+    "Images": "http://13.230.74.250:5000/images/bouquet2.jpg",
     "Link" : "http://localhost:3000/flowers/bouquet"
   },
   {
     "Title": "꽃다발",
     "Content": "꽃다발맞을껄?",
-    "Images": "13.230.74.250:5000/images/bouquet3.jpg",
+    "Images": "http://13.230.74.250:5000/images/bouquet3.jpg",
     "Link" : "http://localhost:3000/flowers/bouquet"
   }
 ]
