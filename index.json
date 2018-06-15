@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "꽃다발",
+    "Content": "사랑하는 사람에게 꽃다발을 선물해 보시는 건 어떨까요?",
+    "Images": "https://mayflower-sungheeek.c9users.io/images/bouquet.jpg",
+    "Link" : "http://localhost:3000/flowers/bouquet"
+  },
+  {
+    "Title": "꽃바구니",
+    "Content": "감사한 분께 꽃바구니를 선물해 보시는 건 어떨까요?",
+    "Images": "https://mayflower-sungheeek.c9users.io/images/flowerbasket0.jpg",
+    "Link" : "http://localhost:3000/flowers/flowerbasket"
+  },
+  {
+    "Title": "화분",
+    "Content": "싱싱한 식물로 공기정화를 해보는 건 어떨까요?",
+    "Images": "https://mayflower-sungheeek.c9users.io/images/flowerpot0.jpg",
+    "Link" : "http://localhost:3000/flowers/flowerpot"
+  },
+  {
+    "Title": "기타",
+    "Content": "조화, 화병, 화환 등 다양한 상품",
+    "Images": "https://mayflower-sungheeek.c9users.io/images/floweretc0.jpg",
+    "Link" : "http://localhost:3000/flowers/floweretc"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "main": {
+    "Title": "기타1",
+    "Content": "메인 기타1",
+    "Images": "https://mayflower-sungheeek.c9users.io/images/floweretc1.jpg",
+    "Link" : "http://localhost:3000/flowers/floweretc/"
+  },
+  "side":
+   {
+      "Title": "사이드 기타1",
+      "Content": "사이드 기타1",
+      "Images": "https://mayflower-sungheeek.c9users.io/images/floweretc1.jpg",
+      "Link" : "http://localhost:3000/flowers/floweretc/1"
+    },
+  "bottom": [
+    {
+      "Title": "기타0",
+      "Content": "메인 기타0",
+      "Images": "https://mayflower-sungheeek.c9users.io/images/floweretc0.jpg",
+      "Link" : "http://localhost:3000/flowers/floweretc/0"
+    },
+    {
+      "Title": "기타1",
+      "Content": "메인 기타1",
+      "Images": "https://mayflower-sungheeek.c9users.io/images/floweretc1.jpg",
+      "Link" : "http://localhost:3000/flowers/floweretc/1"
+    },
+    {
+      "Title": "기타2",
+      "Content": "메인 기타2",
+      "Images": "https://mayflower-sungheeek.c9users.io/images/floweretc2.jpg",
+      "Link" : "http://localhost:3000/flowers/floweretc/2"
+    }
+  ]
+}
